@@ -1,0 +1,8 @@
+E:\HK5 - FPT\SWR302\smallproject\KoiCareSystemAPI\obj\Release\net8.0\KoiCareSystemAPI.csproj.AssemblyReference.cache
+E:\HK5 - FPT\SWR302\smallproject\KoiCareSystemAPI\obj\Release\net8.0\KoiCareSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5 - FPT\SWR302\smallproject\KoiCareSystemAPI\obj\Release\net8.0\KoiCareSystemAPI.AssemblyInfoInputs.cache
+E:\HK5 - FPT\SWR302\smallproject\KoiCareSystemAPI\obj\Release\net8.0\KoiCareSystemAPI.AssemblyInfo.cs
+E:\HK5 - FPT\SWR302\smallproject\KoiCareSystemAPI\obj\Release\net8.0\KoiCareSystemAPI.csproj.CoreCompileInputs.cache
+E:\HK5 - FPT\SWR302\smallproject\KoiCareSystemAPI\obj\Release\net8.0\KoiCareSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\HK5 - FPT\SWR302\smallproject\KoiCareSystemAPI\obj\Release\net8.0\KoiCareSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\HK5 - FPT\SWR302\smallproject\KoiCareSystemAPI\obj\Release\net8.0\KoiCareSystemAPI.sourcelink.json
